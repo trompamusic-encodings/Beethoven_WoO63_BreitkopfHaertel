@@ -8804,7 +8804,7 @@
                         </layer>
                      </staff>
                   </measure>
-                  <measure xml:id="mv5fbs61" n="133">
+                  <measure xml:id="mv5fbs61" n="133" metcon="false" right="invis">
                      <staff xml:id="s1u3xqv2" n="1">
                         <layer xml:id="liuqxk21" n="1">
                            <beam xml:id="buaxtkq1">
@@ -8827,18 +8827,6 @@
                               </note>
                               <note xml:id="nbvn1331" dur="16" oct="5" pname="d"/>
                            </beam>
-                           <beam xml:id="b2pbpt11">
-                              <note xml:id="n4l9fap2" dur="16" oct="5" pname="g"/>
-                              <note xml:id="nofseyq1" dur="16" oct="5" pname="d"/>
-                              <note xml:id="n1z3zk9" dur="16" oct="4" pname="g"/>
-                              <note xml:id="nz4xliy1" dur="16" oct="5" pname="d"/>
-                           </beam>
-                           <beam xml:id="blaax0f1">
-                              <note xml:id="nndiyz41" dur="16" oct="5" pname="f"/>
-                              <note xml:id="nixv96f" dur="16" oct="5" pname="d"/>
-                              <note xml:id="nvob6l51" dur="16" oct="4" pname="g"/>
-                              <note xml:id="nknngj6" dur="16" oct="5" pname="d"/>
-                           </beam>
                         </layer>
                      </staff>
                      <staff xml:id="smzbuoh" n="2">
@@ -8857,6 +8845,29 @@
                               </chord>
                               <note xml:id="nw1sotr1" dur="8" oct="3" pname="g"/>
                            </beam>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <sb />
+                  <measure xml:id="mv5fbs61b" n="133b" metcon="false">
+                     <staff xml:id="s1u3xqv2b" n="1">
+                        <layer xml:id="liuqxk21b" n="1">
+                           <beam xml:id="b2pbpt11">
+                              <note xml:id="n4l9fap2" dur="16" oct="5" pname="g"/>
+                              <note xml:id="nofseyq1" dur="16" oct="5" pname="d"/>
+                              <note xml:id="n1z3zk9" dur="16" oct="4" pname="g"/>
+                              <note xml:id="nz4xliy1" dur="16" oct="5" pname="d"/>
+                           </beam>
+                           <beam xml:id="blaax0f1">
+                              <note xml:id="nndiyz41" dur="16" oct="5" pname="f"/>
+                              <note xml:id="nixv96f" dur="16" oct="5" pname="d"/>
+                              <note xml:id="nvob6l51" dur="16" oct="4" pname="g"/>
+                              <note xml:id="nknngj6" dur="16" oct="5" pname="d"/>
+                           </beam>
+                        </layer>
+                     </staff>
+                     <staff xml:id="smzbuohb" n="2">
+                        <layer xml:id="lm1m05y2b" n="1">
                            <beam xml:id="b8xisn01">
                               <chord xml:id="cnwcz2m1" dur="8">
                                  <note xml:id="ns805a51" oct="2" pname="b"/>
@@ -8872,7 +8883,6 @@
                         </layer>
                      </staff>
                   </measure>
-                  <sb xml:id="s73llvt1"/>
                   <measure xml:id="mczxzly1" n="134">
                      <staff xml:id="svz8gvv2" n="1">
                         <layer xml:id="l8w7rjh" n="1">
