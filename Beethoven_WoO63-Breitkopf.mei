@@ -39,7 +39,7 @@
             <application xml:id="application-kacio9" version="1.0">
                <name xml:id="name-vcmn5q1">Custom text-to-MEI converter (Python); checked with Verovio 6.4.1</name>
             </application>
-            <application xml:id="application-zrjpnu1" enddate="2026-11-20T22:11:35" startdate="2026-11-20T20:38:23" version="1.6.2">
+            <application xml:id="application-zrjpnu1" enddate="2026-11-20T22:18:24" startdate="2026-11-20T20:38:23" version="1.6.2">
                <name xml:id="name-ka503o2">mei-friend</name>
                <p xml:id="p-ktbpst2">First edit by mei-friend 1.6.2.</p>
             </application>
@@ -345,7 +345,7 @@
                         </layer>
                      </staff>
                      <tempo xml:id="tempo-560bz11" place="above" staff="1" tstamp="1">Maestoso</tempo>
-                     <slur xml:id="slur-jqpd42" curvedir="above" endid="#note-ioyhxt2" staff="1" startid="#note-ivaj16"/>
+                     <slur xml:id="slur-c3pott1" endid="#note-ioyhxt2" staff="1" startid="#note-77revv2"/>
                   </measure>
                   <measure xml:id="measure-5eyhme" n="2" facs="#zone-lnaue41">
                      <staff xml:id="staff-8ij7qg" n="1">
@@ -511,7 +511,6 @@
                            <beam xml:id="beam-ydkq4f1">
                               <note xml:id="note-xnn88e1" dur="8" oct="5" pname="f"/>
                               <note xml:id="note-hljhpn2" dur="8" oct="5" pname="b">
-                                 <artic xml:id="artic-gqjsnm1" artic="stacc"/>
                                  <accid xml:id="accid-txsq3u2" accid.ges="f"/>
                               </note>
                               <note xml:id="note-az3mxv1" dur="8" oct="5" pname="b">
@@ -567,7 +566,6 @@
                            <beam xml:id="beam-o92u2h1">
                               <note xml:id="note-fwm7pu2" dur="8" oct="5" pname="f"/>
                               <note xml:id="note-1f274a" dur="8" oct="5" pname="b">
-                                 <artic xml:id="artic-2uxg611" artic="stacc"/>
                                  <accid xml:id="accid-is5wdq1" accid.ges="f"/>
                               </note>
                               <note xml:id="note-zsbvsp2" dur="8" oct="5" pname="b">
@@ -1228,7 +1226,7 @@
                            </beam>
                         </layer>
                      </staff>
-                     <slur xml:id="slur-svw0nn1" curvedir="above" endid="#note-bli83h" staff="1" startid="#note-m06w96"/>
+                     <slur xml:id="slur-re6c1e" endid="#note-bli83h" staff="1" startid="#note-e1pocq1"/>
                   </measure>
                   <measure xml:id="measure-d2166v2" n="18" facs="#zone-coxtxv1">
                      <staff xml:id="staff-pagom91" n="1">
@@ -1471,19 +1469,19 @@
                            </beam>
                            <beam xml:id="beam-p8btu31">
                               <note xml:id="note-tv84ei2" dur="8" oct="5" pname="f"/>
-                              <note xml:id="note-xoxd7g1" dur="8" grace="acc" oct="5" pname="a">
+                              <note xml:id="note-xoxd7g1" dur="8" grace="unacc" oct="5" pname="a">
                                  <accid xml:id="accid-ogwob71" accid="n"/>
                               </note>
                               <note xml:id="note-vem2vd" dur="8" oct="5" pname="b">
                                  <artic xml:id="artic-8s8uf61" artic="stacc"/>
                                  <accid xml:id="accid-z7vsuh" accid.ges="f"/>
                               </note>
-                              <note xml:id="note-b4dyv7" dur="8" grace="acc" oct="5" pname="a"/>
+                              <note xml:id="note-b4dyv7" dur="8" grace="unacc" oct="5" pname="a"/>
                               <note xml:id="note-obwijg" dur="8" oct="5" pname="b">
                                  <artic xml:id="artic-8mpeg71" artic="stacc"/>
                                  <accid xml:id="accid-1yoxp11" accid.ges="f"/>
                               </note>
-                              <note xml:id="note-mj8i3w2" dur="8" grace="acc" oct="5" pname="a"/>
+                              <note xml:id="note-mj8i3w2" dur="8" grace="unacc" oct="5" pname="a"/>
                               <note xml:id="note-rz94po2" dur="8" oct="5" pname="b">
                                  <artic xml:id="artic-2omnz21" artic="stacc"/>
                                  <accid xml:id="accid-n66z9q1" accid.ges="f"/>
@@ -1984,19 +1982,19 @@
                            </beam>
                            <beam xml:id="beam-roxo191">
                               <note xml:id="note-azsvoo2" dur="8" oct="5" pname="d"/>
-                              <note xml:id="note-ni3n7b1" dur="8" grace="acc" oct="5" pname="a">
+                              <note xml:id="note-ni3n7b1" dur="8" grace="unacc" oct="5" pname="a">
                                  <accid xml:id="accid-do8c6c1" accid.ges="f"/>
                               </note>
                               <note xml:id="note-1k40lf" dur="8" oct="5" pname="g">
                                  <artic xml:id="artic-wv7jny1" artic="stacc"/>
                               </note>
-                              <note xml:id="note-o9pybi2" dur="8" grace="acc" oct="5" pname="a">
+                              <note xml:id="note-o9pybi2" dur="8" grace="unacc" oct="5" pname="a">
                                  <accid xml:id="accid-txz55b" accid.ges="f"/>
                               </note>
                               <note xml:id="note-ygimcr1" dur="8" oct="5" pname="g">
                                  <artic xml:id="artic-yy7al81" artic="stacc"/>
                               </note>
-                              <note xml:id="note-a7f9xx1" dur="8" grace="acc" oct="5" pname="a">
+                              <note xml:id="note-a7f9xx1" dur="8" grace="unacc" oct="5" pname="a">
                                  <accid xml:id="accid-kqikyb1" accid.ges="f"/>
                               </note>
                               <note xml:id="note-rvkd9b" dur="8" oct="5" pname="g">
@@ -2723,7 +2721,6 @@
                                  <note xml:id="note-1knj22" oct="4" pname="d"/>
                               </chord>
                               <note xml:id="note-6raqz5" dur="8" oct="4" pname="a">
-                                 <artic xml:id="artic-2aoxqn1" artic="stacciss"/>
                                  <accid xml:id="accid-k49rjv2" accid.ges="f"/>
                               </note>
                            </beam>
@@ -2934,36 +2931,36 @@
                      <staff xml:id="staff-t53aic1" n="1">
                         <layer xml:id="layer-mymgbk2" n="1">
                            <rest xml:id="rest-5kbn641" dur="8"/>
-                           <note xml:id="note-twd41r2" dur="8" grace="acc" oct="5" pname="f">
+                           <note xml:id="note-twd41r2" dur="8" grace="unacc" oct="5" pname="f">
                               <accid xml:id="accid-amkkgv1" accid="s"/>
                            </note>
                            <beam xml:id="beam-cytmtu2">
                               <note xml:id="note-gvcaok2" dur="8" oct="5" pname="g"/>
-                              <note xml:id="note-8qau2m2" dur="8" grace="acc" oct="5" pname="f">
+                              <note xml:id="note-8qau2m2" dur="8" grace="unacc" oct="5" pname="f">
                                  <accid xml:id="accid-blfozo1" accid.ges="s"/>
                               </note>
                               <note xml:id="note-nbgqzt1" dur="8" oct="5" pname="g"/>
-                              <note xml:id="note-e0i31r2" dur="8" grace="acc" oct="5" pname="f">
+                              <note xml:id="note-e0i31r2" dur="8" grace="unacc" oct="5" pname="f">
                                  <accid xml:id="accid-2vd14x2" accid.ges="s"/>
                               </note>
                               <note xml:id="note-nwtl7l2" dur="8" oct="5" pname="g"/>
                            </beam>
-                           <note xml:id="note-41z6a11" dur="8" grace="acc" oct="5" pname="b">
+                           <note xml:id="note-41z6a11" dur="8" grace="nacc" oct="5" pname="b">
                               <accid xml:id="accid-ybg1s5" accid.ges="f"/>
                            </note>
                            <beam xml:id="beam-jh7j0p2">
                               <note xml:id="note-yahy1d" dur="8" oct="5" pname="a">
                                  <accid xml:id="accid-moz4j6" accid.ges="f"/>
                               </note>
-                              <note xml:id="note-cax8oq2" dur="8" grace="acc" oct="5" pname="a">
+                              <note xml:id="note-cax8oq2" dur="8" grace="unacc" oct="5" pname="a">
                                  <accid xml:id="accid-n25zrw1" accid.ges="f"/>
                               </note>
                               <note xml:id="note-eab69w1" dur="8" oct="5" pname="g"/>
-                              <note xml:id="note-7jfi0i2" dur="8" grace="acc" oct="5" pname="g"/>
+                              <note xml:id="note-7jfi0i2" dur="8" grace="unacc" oct="5" pname="g"/>
                               <note xml:id="note-j5t1o9" dur="8" oct="5" pname="f">
                                  <accid xml:id="accid-evrv1n2" accid="n"/>
                               </note>
-                              <note xml:id="note-plso2p1" dur="8" grace="acc" oct="5" pname="f"/>
+                              <note xml:id="note-plso2p1" dur="8" grace="unacc" oct="5" pname="f"/>
                               <note xml:id="note-hm0nnl2" dur="8" oct="5" pname="e">
                                  <accid xml:id="accid-7dixh8" accid.ges="f"/>
                               </note>
@@ -3619,7 +3616,7 @@
                               </note>
                            </beam>
                            <beam xml:id="beam-3qb9oj1">
-                              <tuplet xml:id="tuplet-p09not1" bracket.visible="false" num="3" num.visible="true" numbase="2">
+                              <tuplet xml:id="tuplet-p09not1" bracket.visible="false" num="3" num.visible="true" numbase="2" num.place="above">
                                  <note xml:id="note-7u9whp2" dur="16" oct="3" pname="a">
                                     <accid xml:id="accid-p7y8951" accid.ges="f"/>
                                  </note>
@@ -3628,7 +3625,7 @@
                                  </note>
                                  <note xml:id="note-b1u31v1" dur="16" oct="4" pname="d"/>
                               </tuplet>
-                              <tuplet xml:id="tuplet-zt2xmw1" bracket.visible="false" num="3" num.visible="true" numbase="2">
+                              <tuplet xml:id="tuplet-zt2xmw1" bracket.visible="false" num="3" num.visible="true" numbase="2" num.place="above">
                                  <note xml:id="note-zt8g9l1" dur="16" oct="4" pname="f">
                                     <accid xml:id="accid-kvwjdy2" accid="n"/>
                                  </note>
@@ -3639,7 +3636,7 @@
                               </tuplet>
                            </beam>
                            <beam xml:id="beam-l6pqn01">
-                              <tuplet xml:id="tuplet-hwe0b9" bracket.visible="false" num="3" num.visible="true" numbase="2">
+                              <tuplet xml:id="tuplet-hwe0b9" bracket.visible="false" num="3" num.visible="true" numbase="2" num.place="above">
                                  <note xml:id="note-klwopm2" dur="16" oct="3" pname="a">
                                     <accid xml:id="accid-kze3bq1" accid.ges="f"/>
                                  </note>
@@ -3648,7 +3645,7 @@
                                  </note>
                                  <note xml:id="note-21xpdd" dur="16" oct="4" pname="d"/>
                               </tuplet>
-                              <tuplet xml:id="tuplet-xpsz3i1" bracket.visible="false" num="3" num.visible="true" numbase="2">
+                              <tuplet xml:id="tuplet-xpsz3i1" bracket.visible="false" num="3" num.visible="true" numbase="2" num.place="above">
                                  <note xml:id="note-wbeafu1" dur="16" oct="4" pname="f"/>
                                  <note xml:id="note-ducamn2" dur="16" oct="4" pname="d"/>
                                  <note xml:id="note-rlwwwp1" dur="16" oct="3" pname="b">
@@ -3715,7 +3712,7 @@
                               </note>
                            </beam>
                            <beam xml:id="beam-vmu5m41">
-                              <tuplet xml:id="tuplet-qovtzd" bracket.visible="false" num="3" num.visible="true" numbase="2">
+                              <tuplet xml:id="tuplet-qovtzd" bracket.visible="false" num="3" num.visible="true" numbase="2" num.place="above">
                                  <note xml:id="note-x9mwb5" dur="16" oct="3" pname="a">
                                     <accid xml:id="accid-g4lyjm2" accid.ges="f"/>
                                  </note>
@@ -3724,7 +3721,7 @@
                                  </note>
                                  <note xml:id="note-if60rk2" dur="16" oct="4" pname="d"/>
                               </tuplet>
-                              <tuplet xml:id="tuplet-4x6ced1" bracket.visible="false" num="3" num.visible="true" numbase="2">
+                              <tuplet xml:id="tuplet-4x6ced1" bracket.visible="false" num="3" num.visible="true" numbase="2" num.place="above">
                                  <note xml:id="note-dig6bg1" dur="16" oct="4" pname="f">
                                     <accid xml:id="accid-21edn11" accid="n"/>
                                  </note>
@@ -3735,7 +3732,7 @@
                               </tuplet>
                            </beam>
                            <beam xml:id="beam-6233i31">
-                              <tuplet xml:id="tuplet-l9htdf" bracket.visible="false" num="3" num.visible="true" numbase="2">
+                              <tuplet xml:id="tuplet-l9htdf" bracket.visible="false" num="3" num.visible="true" numbase="2" num.place="above">
                                  <note xml:id="note-cm4233" dur="16" oct="3" pname="a">
                                     <accid xml:id="accid-gicq161" accid.ges="f"/>
                                  </note>
@@ -3744,7 +3741,7 @@
                                  </note>
                                  <note xml:id="note-usv6v51" dur="16" oct="4" pname="d"/>
                               </tuplet>
-                              <tuplet xml:id="tuplet-777q151" bracket.visible="false" num="3" num.visible="true" numbase="2">
+                              <tuplet xml:id="tuplet-777q151" bracket.visible="false" num="3" num.visible="true" numbase="2" num.place="above">
                                  <note xml:id="note-qlhp71" dur="16" oct="4" pname="f"/>
                                  <note xml:id="note-0xq0lt2" dur="16" oct="4" pname="d"/>
                                  <note xml:id="note-shyb7e1" dur="16" oct="3" pname="b">
@@ -4170,14 +4167,14 @@
                               <note xml:id="note-ms6mki1" dur="16" oct="4" pname="c"/>
                            </beam>
                            <beam xml:id="beam-twdc3d">
-                              <tuplet xml:id="tuplet-qyl3g6" bracket.visible="false" num="3" num.visible="true" numbase="2">
+                              <tuplet xml:id="tuplet-qyl3g6" bracket.visible="false" num="3" num.visible="true" numbase="2" num.place="above">
                                  <note xml:id="note-rikvcx2" dur="16" oct="2" pname="b">
                                     <accid xml:id="accid-mww3491" accid="n"/>
                                  </note>
                                  <note xml:id="note-dbbqti1" dur="16" oct="3" pname="d"/>
                                  <note xml:id="note-yfqb5c1" dur="16" oct="3" pname="g"/>
                               </tuplet>
-                              <tuplet xml:id="tuplet-odukmw1" bracket.visible="false" num="3" num.visible="true" numbase="2">
+                              <tuplet xml:id="tuplet-odukmw1" bracket.visible="false" num="3" num.visible="true" numbase="2" num.place="above">
                                  <note xml:id="note-76x0dt1" dur="16" oct="3" pname="b">
                                     <accid xml:id="accid-6epbmf1" accid="n"/>
                                  </note>
@@ -4186,12 +4183,12 @@
                               </tuplet>
                            </beam>
                            <beam xml:id="beam-xur27c1">
-                              <tuplet xml:id="tuplet-hgv56j1" bracket.visible="false" num="3" num.visible="true" numbase="2">
+                              <tuplet xml:id="tuplet-hgv56j1" bracket.visible="false" num="3" num.visible="true" numbase="2" num.place="above">
                                  <note xml:id="note-5ozl1z2" dur="16" oct="2" pname="b"/>
                                  <note xml:id="note-6g1vp81" dur="16" oct="3" pname="d"/>
                                  <note xml:id="note-csdszr1" dur="16" oct="3" pname="g"/>
                               </tuplet>
-                              <tuplet xml:id="tuplet-6a7qig" bracket.visible="false" num="3" num.visible="true" numbase="2">
+                              <tuplet xml:id="tuplet-6a7qig" bracket.visible="false" num="3" num.visible="true" numbase="2" num.place="above">
                                  <note xml:id="note-vzhi9y2" dur="16" oct="3" pname="b"/>
                                  <note xml:id="note-f7w10v1" dur="16" oct="3" pname="g"/>
                                  <note xml:id="note-ldh03h" dur="16" oct="3" pname="d"/>
@@ -4247,14 +4244,14 @@
                               <note xml:id="note-7l7zlb1" dur="16" oct="4" pname="c"/>
                            </beam>
                            <beam xml:id="beam-2466tu2">
-                              <tuplet xml:id="tuplet-rlewlo2" bracket.visible="false" num="3" num.visible="true" numbase="2">
+                              <tuplet xml:id="tuplet-rlewlo2" bracket.visible="false" num="3" num.visible="true" numbase="2" num.place="above">
                                  <note xml:id="note-932o6g" dur="16" oct="2" pname="b">
                                     <accid xml:id="accid-g3c1z01" accid="n"/>
                                  </note>
                                  <note xml:id="note-d6lvkx1" dur="16" oct="3" pname="d"/>
                                  <note xml:id="note-s6v2gd1" dur="16" oct="3" pname="g"/>
                               </tuplet>
-                              <tuplet xml:id="tuplet-inufvq2" bracket.visible="false" num="3" num.visible="true" numbase="2">
+                              <tuplet xml:id="tuplet-inufvq2" bracket.visible="false" num="3" num.visible="true" numbase="2" num.place="above">
                                  <note xml:id="note-74t5wd" dur="16" oct="3" pname="b">
                                     <accid xml:id="accid-op0g051" accid="n"/>
                                  </note>
@@ -4263,12 +4260,12 @@
                               </tuplet>
                            </beam>
                            <beam xml:id="beam-lthcry1">
-                              <tuplet xml:id="tuplet-74vd9i1" bracket.visible="false" num="3" num.visible="true" numbase="2">
+                              <tuplet xml:id="tuplet-74vd9i1" bracket.visible="false" num="3" num.visible="true" numbase="2" num.place="above">
                                  <note xml:id="note-uacpuj1" dur="16" oct="2" pname="b"/>
                                  <note xml:id="note-kr9dlf1" dur="16" oct="3" pname="d"/>
                                  <note xml:id="note-75dn3j1" dur="16" oct="3" pname="g"/>
                               </tuplet>
-                              <tuplet xml:id="tuplet-gcgf7j2" bracket.visible="false" num="3" num.visible="true" numbase="2">
+                              <tuplet xml:id="tuplet-gcgf7j2" bracket.visible="false" num="3" num.visible="true" numbase="2" num.place="above">
                                  <note xml:id="note-dnkyp81" dur="16" oct="3" pname="b"/>
                                  <note xml:id="note-6gp1z6" dur="16" oct="3" pname="g"/>
                                  <note xml:id="note-ya68671" dur="16" oct="3" pname="d"/>
