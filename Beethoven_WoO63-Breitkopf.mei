@@ -65,17 +65,17 @@
             <score xml:id="score-a91n5m1">
                <scoreDef xml:id="scoreDef-wyr5ii2">
                   <keySig xml:id="keySig-f39gps1" sig="3f"/>
-                  <meterSig xml:id="meterSig-cle8lf" count="4" unit="4" sym="common"/>
+                  <meterSig xml:id="meterSig-cle8lf" count="4" sym="common" unit="4"/>
                   <staffGrp xml:id="staffGrp-0njtan1" bar.thru="true">
                      <grpSym xml:id="grpSym-xjvjv21" symbol="brace"/>
                      <label xml:id="label-kv3bo1">
                         <rend xml:id="rend-wy5jeu2" fontsize="large" fontweight="bold">Tema</rend>
                      </label>
                      <staffDef xml:id="staffDef-75qico1" lines="5" n="1">
-                        <clef xml:id="clef-0l8p7j2" shape="G" line="2"/>
+                        <clef xml:id="clef-0l8p7j2" line="2" shape="G"/>
                      </staffDef>
                      <staffDef xml:id="staffDef-3pwjmf" lines="5" n="2">
-                        <clef xml:id="clef-ts1xwg1" shape="F" line="4"/>
+                        <clef xml:id="clef-ts1xwg1" line="4" shape="F"/>
                      </staffDef>
                   </staffGrp>
                </scoreDef>
@@ -955,17 +955,17 @@
             <score xml:id="score-x00424">
                <scoreDef xml:id="scoreDef-qhx2rs1">
                   <keySig xml:id="keySig-qtgmon2" sig="3f"/>
-                  <meterSig xml:id="meterSig-za5bn1" count="4" unit="4" sym="common"/>
+                  <meterSig xml:id="meterSig-za5bn1" count="4" sym="common" unit="4"/>
                   <staffGrp xml:id="staffGrp-64ikiu2" bar.thru="true">
                      <grpSym xml:id="grpSym-6605le1" symbol="brace"/>
                      <label xml:id="label-63sik31">
                         <rend xml:id="rend-4oy8zk1" fontsize="large" fontweight="bold">Var. I</rend>
                      </label>
                      <staffDef xml:id="staffDef-rofu461" lines="5" n="1">
-                        <clef xml:id="clef-9q306t2" shape="G" line="2"/>
+                        <clef xml:id="clef-9q306t2" line="2" shape="G"/>
                      </staffDef>
                      <staffDef xml:id="staffDef-vja8q21" lines="5" n="2">
-                        <clef xml:id="clef-36h6qj2" shape="G" line="2"/>
+                        <clef xml:id="clef-36h6qj2" line="2" shape="G"/>
                      </staffDef>
                   </staffGrp>
                </scoreDef>
@@ -1960,17 +1960,17 @@
             <score xml:id="score-stwner2">
                <scoreDef xml:id="scoreDef-gy8ib8">
                   <keySig xml:id="keySig-w99bnz2" sig="3f"/>
-                  <meterSig xml:id="meterSig-jh716y1" count="4" unit="4" sym="common"/>
+                  <meterSig xml:id="meterSig-jh716y1" count="4" sym="common" unit="4"/>
                   <staffGrp xml:id="staffGrp-vvh3pe" bar.thru="true">
                      <grpSym xml:id="grpSym-gdmj8e1" symbol="brace"/>
                      <label xml:id="label-iomejs2">
                         <rend xml:id="rend-ffobw3" fontsize="large" fontweight="bold">Var. II</rend>
                      </label>
                      <staffDef xml:id="staffDef-ow27qo1" lines="5" n="1">
-                        <clef xml:id="clef-z2fnj9" shape="G" line="2"/>
+                        <clef xml:id="clef-z2fnj9" line="2" shape="G"/>
                      </staffDef>
                      <staffDef xml:id="staffDef-7a22ju1" lines="5" n="2">
-                        <clef xml:id="clef-3bu9t01" shape="G" line="2"/>
+                        <clef xml:id="clef-3bu9t01" line="2" shape="G"/>
                      </staffDef>
                   </staffGrp>
                </scoreDef>
@@ -3141,17 +3141,17 @@
             <score xml:id="score-swupio1">
                <scoreDef xml:id="scoreDef-kq9eis2">
                   <keySig xml:id="keySig-ijle6e1" sig="3f"/>
-                  <meterSig xml:id="meterSig-8u4lec1" count="4" unit="4" sym="common"/>
+                  <meterSig xml:id="meterSig-8u4lec1" count="4" sym="common" unit="4"/>
                   <staffGrp xml:id="staffGrp-mgmots1" bar.thru="true">
                      <grpSym xml:id="grpSym-tzqcr81" symbol="brace"/>
                      <label xml:id="label-3tbgf41">
                         <rend xml:id="rend-ia5iwl1" fontsize="large" fontweight="bold">Var. III</rend>
                      </label>
                      <staffDef xml:id="staffDef-rar8sn2" lines="5" n="1">
-                        <clef xml:id="clef-l397tg1" shape="G" line="2"/>
+                        <clef xml:id="clef-l397tg1" line="2" shape="G"/>
                      </staffDef>
                      <staffDef xml:id="staffDef-2as1iz2" lines="5" n="2">
-                        <clef xml:id="clef-z96zrt2" shape="F" line="4"/>
+                        <clef xml:id="clef-z96zrt2" line="4" shape="F"/>
                      </staffDef>
                   </staffGrp>
                </scoreDef>
@@ -4180,17 +4180,17 @@
             <score xml:id="score-ab6jh01">
                <scoreDef xml:id="scoreDef-j41axt2">
                   <keySig xml:id="keySig-z6r1gh" sig="3f"/>
-                  <meterSig xml:id="meterSig-mpyxlm2" count="4" unit="4" sym="common"/>
+                  <meterSig xml:id="meterSig-mpyxlm2" count="4" sym="common" unit="4"/>
                   <staffGrp xml:id="staffGrp-ueffmk1" bar.thru="true">
                      <grpSym xml:id="grpSym-baq05f1" symbol="brace"/>
                      <label xml:id="label-jzoe491">
                         <rend xml:id="rend-o25cmx2" fontsize="large" fontweight="bold">Var. IV</rend>
                      </label>
                      <staffDef xml:id="staffDef-brhbw71" lines="5" n="1">
-                        <clef xml:id="clef-6p5lj71" shape="G" line="2"/>
+                        <clef xml:id="clef-6p5lj71" line="2" shape="G"/>
                      </staffDef>
                      <staffDef xml:id="staffDef-yq492u1" lines="5" n="2">
-                        <clef xml:id="clef-6jmocj1" shape="G" line="2"/>
+                        <clef xml:id="clef-6jmocj1" line="2" shape="G"/>
                      </staffDef>
                   </staffGrp>
                </scoreDef>
@@ -5348,17 +5348,17 @@
             <score xml:id="score-8c9qce1">
                <scoreDef xml:id="scoreDef-st3hzc">
                   <keySig xml:id="keySig-s0k2v71" sig="3f"/>
-                  <meterSig xml:id="meterSig-7nmztx2" count="4" unit="4" sym="common"/>
+                  <meterSig xml:id="meterSig-7nmztx2" count="4" sym="common" unit="4"/>
                   <staffGrp xml:id="staffGrp-fdng65" bar.thru="true">
                      <grpSym xml:id="grpSym-0sbwfj2" symbol="brace"/>
                      <label xml:id="label-i6m7nx2">
                         <rend xml:id="rend-7l0nao2" fontsize="large" fontweight="bold">Var. V</rend>
                      </label>
                      <staffDef xml:id="staffDef-3ixmsh" lines="5" n="1">
-                        <clef xml:id="clef-qif1iy2" shape="G" line="2"/>
+                        <clef xml:id="clef-qif1iy2" line="2" shape="G"/>
                      </staffDef>
                      <staffDef xml:id="staffDef-zi69vk1" lines="5" n="2">
-                        <clef xml:id="clef-6jxmap2" shape="G" line="2"/>
+                        <clef xml:id="clef-6jxmap2" line="2" shape="G"/>
                      </staffDef>
                   </staffGrp>
                </scoreDef>
@@ -6665,17 +6665,17 @@
             <score xml:id="score-ofa0vb">
                <scoreDef xml:id="scoreDef-nx8zqk1">
                   <keySig xml:id="keySig-f29pbf1" sig="3f"/>
-                  <meterSig xml:id="meterSig-ke0ul6" count="4" unit="4" sym="common"/>
+                  <meterSig xml:id="meterSig-ke0ul6" count="4" sym="common" unit="4"/>
                   <staffGrp xml:id="staffGrp-wzajdt1" bar.thru="true">
                      <grpSym xml:id="grpSym-k3h5441" symbol="brace"/>
                      <label xml:id="label-9jzw331">
                         <rend xml:id="rend-d3rqxm1" fontsize="large" fontweight="bold">Var. VI</rend>
                      </label>
                      <staffDef xml:id="staffDef-6uc0u6" lines="5" n="1">
-                        <clef xml:id="clef-rwt7qz2" shape="G" line="2"/>
+                        <clef xml:id="clef-rwt7qz2" line="2" shape="G"/>
                      </staffDef>
                      <staffDef xml:id="staffDef-odequv2" lines="5" n="2">
-                        <clef xml:id="clef-x068o6" shape="G" line="2"/>
+                        <clef xml:id="clef-x068o6" line="2" shape="G"/>
                      </staffDef>
                   </staffGrp>
                </scoreDef>
@@ -6797,7 +6797,7 @@
                      <slur xml:id="slur-ei7md71" endid="#note-v5b3fb1" staff="1" startid="#note-a2bfdf1"/>
                      <slur xml:id="slur-goxw44" endid="#note-m0f1uv1" staff="1" startid="#note-lcrmf51"/>
                   </measure>
-                  <measure xml:id="measure-y13upl1" n="101">
+                  <measure xml:id="measure-y13upl1" metcon="false" n="101" right="invis">
                      <staff xml:id="staff-j4brlf" n="1">
                         <layer xml:id="layer-wz49i7" n="1">
                            <note xml:id="note-b00d9p1" dots="1" dur="4" oct="2" pname="a">
@@ -6833,7 +6833,7 @@
                      <slur xml:id="slur-6pewzt2" endid="#note-nww18k1" staff="1" startid="#note-b00d9p1"/>
                   </measure>
                   <sb xml:id="sb-e5185b1"/>
-                  <measure xml:id="measure-r8d9dw1" n="102">
+                  <measure xml:id="measure-r8d9dw1" metcon="false" n="102">
                      <staff xml:id="staff-k09a4a" n="1">
                         <layer xml:id="layer-u599rs2" n="1">
                            <beam xml:id="beam-284kii2">
@@ -7802,17 +7802,17 @@
             <score xml:id="score-u2j3go1">
                <scoreDef xml:id="scoreDef-522zvi1">
                   <keySig xml:id="keySig-im1cdv1" sig="3f"/>
-                  <meterSig xml:id="meterSig-cmbj071" count="4" unit="4" sym="common"/>
+                  <meterSig xml:id="meterSig-cmbj071" count="4" sym="common" unit="4"/>
                   <staffGrp xml:id="staffGrp-6jvk5a1" bar.thru="true">
                      <grpSym xml:id="grpSym-5w9w7l1" symbol="brace"/>
                      <label xml:id="label-8qr20q1">
                         <rend xml:id="rend-53dsb31" fontsize="large" fontweight="bold">Var. VII</rend>
                      </label>
                      <staffDef xml:id="staffDef-cof1ot2" lines="5" n="1">
-                        <clef xml:id="clef-68bbjg1" shape="G" line="2"/>
+                        <clef xml:id="clef-68bbjg1" line="2" shape="G"/>
                      </staffDef>
                      <staffDef xml:id="staffDef-mjq6tx2" lines="5" n="2">
-                        <clef xml:id="clef-wskv7w2" shape="G" line="2"/>
+                        <clef xml:id="clef-wskv7w2" line="2" shape="G"/>
                      </staffDef>
                   </staffGrp>
                </scoreDef>
@@ -8712,17 +8712,17 @@
             <score xml:id="score-tkdx5y1">
                <scoreDef xml:id="scoreDef-suue95">
                   <keySig xml:id="keySig-n5qklz1" sig="3f"/>
-                  <meterSig xml:id="meterSig-l6td8k2" count="4" unit="4" sym="common"/>
+                  <meterSig xml:id="meterSig-l6td8k2" count="4" sym="common" unit="4"/>
                   <staffGrp xml:id="staffGrp-6t1rik2" bar.thru="true">
                      <grpSym xml:id="grpSym-rql0pj1" symbol="brace"/>
                      <label xml:id="label-7wqmbt1">
                         <rend xml:id="rend-2jzmqf" fontsize="large" fontweight="bold">Var. VIII</rend>
                      </label>
                      <staffDef xml:id="staffDef-9oon3x2" lines="5" n="1">
-                        <clef xml:id="clef-9vlyz4" shape="G" line="2"/>
+                        <clef xml:id="clef-9vlyz4" line="2" shape="G"/>
                      </staffDef>
                      <staffDef xml:id="staffDef-h5j6em2" lines="5" n="2">
-                        <clef xml:id="clef-p5xede1" shape="F" line="4"/>
+                        <clef xml:id="clef-p5xede1" line="4" shape="F"/>
                      </staffDef>
                   </staffGrp>
                </scoreDef>
@@ -9840,17 +9840,17 @@
             <score xml:id="score-uhfqlm2">
                <scoreDef xml:id="scoreDef-2v46ci2">
                   <keySig xml:id="keySig-cypxw3" sig="0"/>
-                  <meterSig xml:id="meterSig-55j4zm2" count="4" unit="4" sym="common"/>
+                  <meterSig xml:id="meterSig-55j4zm2" count="4" sym="common" unit="4"/>
                   <staffGrp xml:id="staffGrp-xjrrt81" bar.thru="true">
                      <grpSym xml:id="grpSym-sa4zxi1" symbol="brace"/>
                      <label xml:id="label-lijoli1">
                         <rend xml:id="rend-8gpn5m1" fontsize="large" fontweight="bold">Var. IX</rend>
                      </label>
                      <staffDef xml:id="staffDef-zge7pj2" lines="5" n="1">
-                        <clef xml:id="clef-c91vui2" shape="G" line="2"/>
+                        <clef xml:id="clef-c91vui2" line="2" shape="G"/>
                      </staffDef>
                      <staffDef xml:id="staffDef-wksxd3" lines="5" n="2">
-                        <clef xml:id="clef-ulsijp2" shape="F" line="4"/>
+                        <clef xml:id="clef-ulsijp2" line="4" shape="F"/>
                      </staffDef>
                   </staffGrp>
                </scoreDef>
