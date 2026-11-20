@@ -39,7 +39,7 @@
             <application xml:id="application-kacio9" version="1.0">
                <name xml:id="name-vcmn5q1">Custom text-to-MEI converter (Python); checked with Verovio 6.4.1</name>
             </application>
-            <application xml:id="application-zrjpnu1" enddate="2026-11-20T22:29:22" startdate="2026-11-20T20:38:23" version="1.6.2">
+            <application xml:id="application-zrjpnu1" enddate="2026-11-20T22:32:59" startdate="2026-11-20T20:38:23" version="1.6.2">
                <name xml:id="name-ka503o2">mei-friend</name>
                <p xml:id="p-ktbpst2">First edit by mei-friend 1.6.2.</p>
             </application>
@@ -272,6 +272,13 @@
                <scoreDef xml:id="scoreDef-wyr5ii2">
                   <keySig xml:id="keySig-f39gps1" sig="3f"/>
                   <meterSig xml:id="meterSig-cle8lf" count="4" sym="common" unit="4"/>
+                  <pgHead func="first">
+                     <rend halign="center" fontweight="bold" fontsize="xx-large">NEUN VARIATIONEN</rend>
+                     <rend halign="center" fontweight="bold" fontsize="large">über einen Marsch von Dressler</rend>
+                     <rend halign="center" fontweight="bold" fontsize="large">für das Pianoforte</rend>
+                     <rend halign="center" fontweight="bold" fontsize="normal">von</rend>
+                     <rend halign="center" fontweight="bold" fontsize="xx-large">L.<rend fontsize="x-small" >VAN</rend> BEETHOVEN.</rend>
+                  </pgHead>
                   <staffGrp xml:id="staffGrp-0njtan1" bar.thru="true">
                      <grpSym xml:id="grpSym-xjvjv21" symbol="brace"/>
                      <label xml:id="label-kv3bo1">
