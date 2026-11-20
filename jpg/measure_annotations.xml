@@ -1,22 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mei
-    xmlns="http://www.music-encoding.org/ns/mei">
-    <meiHead>
-        <fileDesc>
-            <titleStmt>
-                <title/>
-            </titleStmt>
-            <pubStmt/>
-        </fileDesc>
-        <encodingDesc>
-            <appInfo>
-                <application isodate="2026-11-20T12:38:04.299Z" version="1.0.2">
-                    <name>Deep Optical Measure Detector</name>
-                    <p>Measures detected with Deep Optical Measure Detector</p>
-                </application>
-            </appInfo>
-        </encodingDesc>
-    </meiHead>
+<mei xmlns="http://www.music-encoding.org/ns/mei">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <pubStmt/>
+      </fileDesc>
+      <encodingDesc>
+         <appInfo>
+            <application isodate="2026-11-20T12:38:04.299Z" version="1.0.2">
+               <name>Deep Optical Measure Detector</name>
+               <p>Measures detected with Deep Optical Measure Detector</p>
+            </application>
+            <application xml:id="aq9sudl1" startdate="2026-11-20T13:50:47" version="1.6.1" enddate="2026-11-20T13:50:47">
+               <name xml:id="nc4nn9h">mei-friend</name>
+               <p xml:id="p597ito2">First edit by mei-friend 1.6.1.</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
     <music>
         <facsimile>
             <surface xml:id="surface_01M7WFDH8D1PZB95087X5XQSG8" n="1" ulx="0" uly="0" lrx="1829" lry="2406">
@@ -37,7 +40,7 @@
                 <zone xml:id="zone_01M7WFDH8EQ15FBQM7YYFA0QEB" type="measure" ulx="750" uly="1021" lrx="1108" lry="1345"/>
                 <zone xml:id="zone_01M7WFDH8E81K9EQD0ZNCWTP0H" type="measure" ulx="1074" uly="1017" lrx="1463" lry="1339"/>
                 <zone xml:id="zone_01M7WFDH8F11G3T52D38Z15F4B" type="measure" ulx="1429" uly="1021" lrx="1693" lry="1332"/>
-                <zone xml:id="zone_01M7WFDH8FCNTY5NB6NCS05NMW" type="measure" ulx="268" uly="1340" lrx="678" lry="1633"/>
+               <zone xml:id="zone_01M7WFDH8FCNTY5NB6NCS05NMW" lrx="678" lry="1633" type="measure" ulx="84" uly="1340"/>
                 <zone xml:id="zone_01M7WFDH8FXMTYP7FNSC8FXH1X" type="measure" ulx="646" uly="1335" lrx="918" lry="1641"/>
                 <zone xml:id="zone_01M7WFDH8FS5TQHPBV7B3P8A06" type="measure" ulx="884" uly="1330" lrx="1175" lry="1640"/>
                 <zone xml:id="zone_01M7WFDH8F3PMHAAJ09FRXF04N" type="measure" ulx="1143" uly="1317" lrx="1432" lry="1638"/>
@@ -56,7 +59,7 @@
             </surface>
             <surface xml:id="surface_01M7WFDH8GYS4F2QRZFQ7A9QKY" n="2" ulx="0" uly="0" lrx="1829" lry="2406">
                 <graphic xml:id="graphic_01M7WFDH8G1KBG7YH5K4KT2J5P" target="IMSLP53029-PMLP12227-Beethoven_Werke_Breitkopf_Serie_17_No_166_9_Variationen_WoO_63-04.jpg" width="1830" height="2407"/>
-                <zone xml:id="zone_01M7WFDH8GFVS3SGM3C3GG74YB" type="measure" ulx="301" uly="130" lrx="922" lry="443"/>
+               <zone xml:id="zone_01M7WFDH8GFVS3SGM3C3GG74YB" lrx="922" lry="443" type="measure" ulx="155" uly="130"/>
                 <zone xml:id="zone_01M7WFDH8H17GZTKXWX78H6GPS" type="measure" ulx="898" uly="123" lrx="1307" lry="443"/>
                 <zone xml:id="zone_01M7WFDH8H8QGYEPXMFSCA1WX5" type="measure" ulx="1277" uly="128" lrx="1756" lry="441"/>
                 <zone xml:id="zone_01M7WFDH8HZCMAVEPF45C3G0CJ" type="measure" ulx="122" uly="426" lrx="590" lry="732"/>
@@ -72,7 +75,7 @@
                 <zone xml:id="zone_01M7WFDH8JJDJ405JB748T9E7D" type="measure" ulx="700" uly="1036" lrx="1189" lry="1338"/>
                 <zone xml:id="zone_01M7WFDH8JVMAW5RMD96KJQTDN" type="measure" ulx="1155" uly="1037" lrx="1560" lry="1338"/>
                 <zone xml:id="zone_01M7WFDH8JBFRVK5N4SB39WGY7" type="measure" ulx="1526" uly="1042" lrx="1754" lry="1338"/>
-                <zone xml:id="zone_01M7WFDH8JY7H57V2AXH31S6FK" type="measure" ulx="280" uly="1333" lrx="897" lry="1640"/>
+               <zone xml:id="zone_01M7WFDH8JY7H57V2AXH31S6FK" lrx="897" lry="1640" type="measure" ulx="122" uly="1333"/>
                 <zone xml:id="zone_01M7WFDH8J98XENMCP7ZJCC6YS" type="measure" ulx="861" uly="1334" lrx="1325" lry="1640"/>
                 <zone xml:id="zone_01M7WFDH8JHZT1KS7F6XEG2JMF" type="measure" ulx="1288" uly="1339" lrx="1747" lry="1635"/>
                 <zone xml:id="zone_01M7WFDH8KC34GYD870P1YEJRK" type="measure" ulx="105" uly="1632" lrx="534" lry="1932"/>
@@ -92,7 +95,7 @@
                 <zone xml:id="zone_01M7WFDH8K6FFNQ8C0WXKZWA7H" type="measure" ulx="54" uly="449" lrx="845" lry="761"/>
                 <zone xml:id="zone_01M7WFDH8MKZQZ6K6YY0XBSVR9" type="measure" ulx="804" uly="451" lrx="1344" lry="738"/>
                 <zone xml:id="zone_01M7WFDH8M7EDY90HTDC98300G" type="measure" ulx="1312" uly="462" lrx="1670" lry="736"/>
-                <zone xml:id="zone_01M7WFDH8MBMZNW0ND2EYACQ3D" type="measure" ulx="194" uly="756" lrx="883" lry="1058"/>
+               <zone xml:id="zone_01M7WFDH8MBMZNW0ND2EYACQ3D" lrx="883" lry="1058" type="measure" ulx="58" uly="756"/>
                 <zone xml:id="zone_01M7WFDH8MYGV608XBXYBTJCZ0" type="measure" ulx="854" uly="749" lrx="1249" lry="1047"/>
                 <zone xml:id="zone_01M7WFDH8N856DHHR0HWE0G86E" type="measure" ulx="1218" uly="734" lrx="1675" lry="1041"/>
                 <zone xml:id="zone_01M7WFDH8NNFXTGQWH0J6Y6TVD" type="measure" ulx="62" uly="1057" lrx="677" lry="1361"/>
@@ -111,7 +114,7 @@
             </surface>
             <surface xml:id="surface_01M7WFDH8NQ54XDXD67NWM7AER" n="4" ulx="0" uly="0" lrx="1829" lry="2406">
                 <graphic xml:id="graphic_01M7WFDH8NTHY5SB8KPNJXJW1B" target="IMSLP53029-PMLP12227-Beethoven_Werke_Breitkopf_Serie_17_No_166_9_Variationen_WoO_63-06.jpg" width="1830" height="2407"/>
-                <zone xml:id="zone_01M7WFDH8NFA2E01HBB1X9TYAY" type="measure" ulx="277" uly="155" lrx="1131" lry="455"/>
+               <zone xml:id="zone_01M7WFDH8NFA2E01HBB1X9TYAY" lrx="1131" lry="455" type="measure" ulx="119" uly="155"/>
                 <zone xml:id="zone_01M7WFDH8PKTW27BCJ06WG1GG4" type="measure" ulx="1096" uly="145" lrx="1755" lry="461"/>
                 <zone xml:id="zone_01M7WFDH8PQ97RG69V4SECHTH1" type="measure" ulx="120" uly="430" lrx="786" lry="755"/>
                 <zone xml:id="zone_01M7WFDH8P9PD04S881QQ184MN" type="measure" ulx="747" uly="441" lrx="1281" lry="759"/>
@@ -131,7 +134,7 @@
                 <graphic xml:id="graphic_01M7WFDH8PT6RT7Z57BJW4MCWV" target="IMSLP53029-PMLP12227-Beethoven_Werke_Breitkopf_Serie_17_No_166_9_Variationen_WoO_63-07.jpg" width="1830" height="2407"/>
                 <zone xml:id="zone_01M7WFDH8P3YCTX2XWQ0SQ2Z8E" type="measure" ulx="97" uly="152" lrx="1242" lry="470"/>
                 <zone xml:id="zone_01M7WFDH8P95YP2FJ66QWAA9JH" type="measure" ulx="1200" uly="174" lrx="1729" lry="459"/>
-                <zone xml:id="zone_01M7WFDH8P8VEMTFXKCN7SD558" type="measure" ulx="198" uly="449" lrx="977" lry="758"/>
+               <zone xml:id="zone_01M7WFDH8P8VEMTFXKCN7SD558" lrx="977" lry="758" type="measure" ulx="94" uly="449"/>
                 <zone xml:id="zone_01M7WFDH8P0YB0D31YJRDJ1R8P" type="measure" ulx="933" uly="461" lrx="1454" lry="763"/>
                 <zone xml:id="zone_01M7WFDH8P5KB2T4ZM4R1SGNCR" type="measure" ulx="1416" uly="467" lrx="1741" lry="764"/>
                 <zone xml:id="zone_01M7WFDH8PGV2QJBH5A869PARK" type="measure" ulx="101" uly="768" lrx="607" lry="1060"/>
@@ -151,7 +154,7 @@
             </surface>
             <surface xml:id="surface_01M7WFDH8QFKS3AQSTGB56RBC0" n="6" ulx="0" uly="0" lrx="1829" lry="2406">
                 <graphic xml:id="graphic_01M7WFDH8R38KKPTVA3WM85NR8" target="IMSLP53029-PMLP12227-Beethoven_Werke_Breitkopf_Serie_17_No_166_9_Variationen_WoO_63-08.jpg" width="1830" height="2407"/>
-                <zone xml:id="zone_01M7WFDH8RDJDXJE96ESWG91YW" type="measure" ulx="297" uly="176" lrx="908" lry="463"/>
+               <zone xml:id="zone_01M7WFDH8RDJDXJE96ESWG91YW" lrx="908" lry="463" type="measure" ulx="117" uly="176"/>
                 <zone xml:id="zone_01M7WFDH8R6WZW02CWY1NV1DD3" type="measure" ulx="885" uly="170" lrx="1249" lry="462"/>
                 <zone xml:id="zone_01M7WFDH8RE7JSVH93CK3JWZ6N" type="measure" ulx="1222" uly="162" lrx="1723" lry="458"/>
                 <zone xml:id="zone_01M7WFDH8RH9MESF6K3R0Z41Z8" type="measure" ulx="109" uly="446" lrx="505" lry="747"/>
@@ -167,7 +170,7 @@
                 <zone xml:id="zone_01M7WFDH8SCG9MM0N9ENSAAXN1" type="measure" ulx="684" uly="1047" lrx="1156" lry="1358"/>
                 <zone xml:id="zone_01M7WFDH8SVB5ARBTHSKTAEQDH" type="measure" ulx="1127" uly="1054" lrx="1494" lry="1367"/>
                 <zone xml:id="zone_01M7WFDH8SWNEGTVAKQA6F7GD0" type="measure" ulx="1466" uly="1054" lrx="1715" lry="1369"/>
-                <zone xml:id="zone_01M7WFDH8SDQ6H1C0FJAQHT5E4" type="measure" ulx="243" uly="1344" lrx="960" lry="1672"/>
+               <zone xml:id="zone_01M7WFDH8SDQ6H1C0FJAQHT5E4" lrx="960" lry="1672" type="measure" ulx="107" uly="1344"/>
                 <zone xml:id="zone_01M7WFDH8S1NNBKPWM33XWJEN8" type="measure" ulx="928" uly="1344" lrx="1471" lry="1679"/>
                 <zone xml:id="zone_01M7WFDH8S4PZ9B1W67GHMB3AD" type="measure" ulx="1436" uly="1349" lrx="1730" lry="1675"/>
                 <zone xml:id="zone_01M7WFDH8SDPW5C7FFKJX5YD1P" type="measure" ulx="97" uly="1650" lrx="495" lry="1971"/>
@@ -186,7 +189,7 @@
                 <zone xml:id="zone_01M7WFDH8TJ27EDHF66YE0B0G7" type="measure" ulx="1271" uly="173" lrx="1711" lry="469"/>
                 <zone xml:id="zone_01M7WFDH8TPWVB3FW66DPAWJNT" type="measure" ulx="93" uly="454" lrx="821" lry="775"/>
                 <zone xml:id="zone_01M7WFDH8T2B6ZXPYYETM93PVW" type="measure" ulx="784" uly="456" lrx="1407" lry="770"/>
-                <zone xml:id="zone_01M7WFDH8TFK0GN16AR4QSGC5S" type="measure" ulx="1370" uly="451" lrx="1636" lry="758"/>
+               <zone xml:id="zone_01M7WFDH8TFK0GN16AR4QSGC5S" lrx="1710" lry="758" type="measure" ulx="1370" uly="451"/>
                 <zone xml:id="zone_01M7WFDH8T75G4HRQWQ5Z8Q38V" type="measure" ulx="93" uly="771" lrx="829" lry="1086"/>
                 <zone xml:id="zone_01M7WFDH8T9ZTFMSER056V9C5H" type="measure" ulx="790" uly="752" lrx="1248" lry="1085"/>
                 <zone xml:id="zone_01M7WFDH8TJ05BS4936BMYHQ6M" type="measure" ulx="1210" uly="746" lrx="1719" lry="1081"/>
@@ -228,7 +231,7 @@
             <mdiv xml:id="mdiv_01M7WFDH8BDGD7HWP45JXGHA4Q" n="1" label="">
                 <score>
                     <scoreDef/>
-                    <section>
+                    <section xml:id="seld85u1">
                         <pb/>
                         <measure xml:id="measure_01M7WFDH8D9Y70XEA7ZRNGX84M" n="1" label="1" facs="#zone_01M7WFDH8D52Z460DQRV4R7DKH"/>
                         <measure xml:id="measure_01M7WFDH8DKMTN52HKKBVANS7H" n="2" label="2" facs="#zone_01M7WFDH8DEE37CXSNRTBDYY9Z"/>
